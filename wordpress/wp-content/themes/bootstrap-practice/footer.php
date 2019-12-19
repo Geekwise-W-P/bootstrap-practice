@@ -1,9 +1,13 @@
 <footer>
 <div class="row">
     <div class="col-md-12 unique">
-    <h1 class="text-center"> . . .</h1>
+    <p class="text-center copyright"> &copy; 2019 Neptali Montez</p>
+     
     </div>
+    
+    
 </div>
+
 </footer>
 <?php wp_footer();?>
 

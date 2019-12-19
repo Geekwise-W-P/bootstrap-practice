@@ -7,3 +7,12 @@ Version: 1.0
 .unique h1{
     background-color:aqua;
 }
+.jumbotron{
+    background-image: url(" http://bootstrap.practice/wp-content/uploads/2019/12/img1-scaled.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.lead{
+    color:white;
+}
